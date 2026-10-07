@@ -19,3 +19,6 @@ python Tetris_2048.py
 | ← → | Move |
 | ↑ | Rotate |
 | ↓ | Soft drop |
+| Space | Hard drop |
+| P | Pause |
+| Q | Quit |
